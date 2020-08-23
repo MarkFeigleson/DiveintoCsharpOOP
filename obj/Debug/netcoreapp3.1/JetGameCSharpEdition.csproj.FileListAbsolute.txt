@@ -1,0 +1,13 @@
+D:\CSharpProjects\JetGameCSharpEdition\obj\Debug\netcoreapp3.1\JetGameCSharpEdition.csprojAssemblyReference.cache
+D:\CSharpProjects\JetGameCSharpEdition\obj\Debug\netcoreapp3.1\JetGameCSharpEdition.AssemblyInfoInputs.cache
+D:\CSharpProjects\JetGameCSharpEdition\obj\Debug\netcoreapp3.1\JetGameCSharpEdition.AssemblyInfo.cs
+D:\CSharpProjects\JetGameCSharpEdition\obj\Debug\netcoreapp3.1\JetGameCSharpEdition.csproj.CoreCompileInputs.cache
+D:\CSharpProjects\JetGameCSharpEdition\bin\Debug\netcoreapp3.1\JetGameCSharpEdition.exe
+D:\CSharpProjects\JetGameCSharpEdition\bin\Debug\netcoreapp3.1\JetGameCSharpEdition.deps.json
+D:\CSharpProjects\JetGameCSharpEdition\bin\Debug\netcoreapp3.1\JetGameCSharpEdition.runtimeconfig.json
+D:\CSharpProjects\JetGameCSharpEdition\bin\Debug\netcoreapp3.1\JetGameCSharpEdition.runtimeconfig.dev.json
+D:\CSharpProjects\JetGameCSharpEdition\bin\Debug\netcoreapp3.1\JetGameCSharpEdition.dll
+D:\CSharpProjects\JetGameCSharpEdition\bin\Debug\netcoreapp3.1\JetGameCSharpEdition.pdb
+D:\CSharpProjects\JetGameCSharpEdition\obj\Debug\netcoreapp3.1\JetGameCSharpEdition.dll
+D:\CSharpProjects\JetGameCSharpEdition\obj\Debug\netcoreapp3.1\JetGameCSharpEdition.pdb
+D:\CSharpProjects\JetGameCSharpEdition\obj\Debug\netcoreapp3.1\JetGameCSharpEdition.genruntimeconfig.cache
